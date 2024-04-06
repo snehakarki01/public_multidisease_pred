@@ -1,9 +1,3 @@
-# Created on Sat Apr 6 06:24:45 2024
-
-
-@author: Sneha Karki
-"""
-
 import pickle
 import streamlit as st
 from streamlit_option_menu import option_menu
